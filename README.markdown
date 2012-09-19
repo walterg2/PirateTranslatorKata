@@ -1,1 +1,1 @@
-#JavaScript Project Skeleton
+#Pirate Translator Kata
