@@ -1,0 +1,989 @@
+
+english: ahh, aha, ahem, booyah, eek, hamana, hubba, hoorah, horray, huzzah
+pirate:	arrr, blimey, blistering barnacles, blow me down, shiver me timbers, yarr
+
+english: mmm, mwah, neener, omg, omigod, oh my god, golly, gosh, oohlala, oo, ooh, oy, rah, sisboombah, va-va-voom
+pirate:	arrr, blimey, blistering barnacles, blow me down, shiver me timbers, yarr
+
+english: whee, whew, whoah, whoopdedoo, woohoo, w00t, woot, wowza
+pirate:	arrr, blimey, blistering barnacles, blow me down, shiver me timbers, yarr
+
+english: yahhoo, yay, yeehaw, yikes, yippee, yoohoo, yummy, zoinks, zowie
+pirate:	arrr, blimey, blistering barnacles, blow me down, shiver me timbers, yarr
+
+english: a ok, a1, all right, awesome, bang up, blue chip, blue ribbon, brilliant, cool, dandy, divine
+pirate:	arrr, blimey, blistering barnacles, blow me down, shiver me timbers, yarr
+
+english: dude, excellent, exemplary, exceptional, fab, fabulous, fantastic, fine, first class, first rate, great
+pirate:	arrr, blimey, blistering barnacles, blow me down, shiver me timbers, yarr
+
+english: hunky dory, magnificent, marvelous, matchless, out of this world, outstanding, peerless, perfect, preeminent, prime
+pirate:	arrr, blimey, blistering barnacles, blow me down, shiver me timbers, yarr
+
+english: skookum, splendid, splendiferous, superb, superlative, supreme, sweet, terrific, top notch, tremendous, unbeatable, wicked, wonderful, word
+pirate:	arrr, blimey, blistering barnacles, blow me down, shiver me timbers, yarr
+
+english: what the heck, hell, fuck, wtf, bloody hell, darn it, damn it, dammit
+pirate:	arrrgh, blast ye, blimey, blistering barnacles, blow me down, garr, shiver me timbers
+
+english: ack, aw, bah, blah, bleh, blech, bloody hell, boohoo, d'oh, duh, ew
+pirate:	arrrgh, blast ye, blimey, blistering barnacles, blow me down, garr, shiver me timbers
+
+english: feh, gak, hm, hrumph, hmph, hohum, huh, ick, lahdedah
+pirate:	arrrgh, blast ye, blimey, blistering barnacles, blow me down, garr, shiver me timbers
+
+english: meh, mmhmm, ohoh, oopsie, oopsy ouch, ow, phew, phfft, phooey, pfui, pshaw
+pirate:	arrrgh, blast ye, blimey, blistering barnacles, blow me down, garr, shiver me timbers
+
+english: tchah, tsktsk, tuttut, tchtch
+pirate:	arrrgh, blast ye, blimey, blistering barnacles, blow me down, garr, shiver me timbers
+
+english: ugh, uhoh, whoopsie, whoopsy yuck, yec+h
+pirate:	arrrgh, blast ye, blimey, blistering barnacles, blow me down, garr, shiver me timbers
+
+english: what's, whas, whazsup, tup, up, goin' down, going down, happenin', happening, new, nu, shakin', shaking, the good word, haps
+pirate:	what ye be doin
+
+english: how you, doing, how are ya, ous, howzit, how's it hangin', how's it hanging
+pirate:	how fares yer day
+
+english: a-ight, cheers, greetings, hail
+pirate:	ahoy
+
+english: hey baby, there
+pirate:	ahoy matey
+
+english: good day, morning, evening, g'day, top o' th' mornin' t' ya, top of the morning to ya
+pirate:	here's luck 'n a fair wind t' ye
+
+english: peace, salutations, shalom, welcome, yoyo
+pirate:	ahoy
+
+english: excuse me
+pirate:	ahoy
+
+english: hello, hallo, hey, hi hi, ya, howdy, holla, hullo, ciao, ello
+pirate:	ahoy
+
+english: absolutely not, in the negative, not agreed, incorrect, I don't agree, never, no way, not really, wrong
+pirate:	nay
+
+english: nah, nope, uhuh
+pirate:	nay
+
+english: agreed, correct, got it, o\\-kay), right, understand, yes)(\\
+pirate:	savvy
+
+english: absolutely, in the )affirmative, agreed, correct, I agree, indeed, right, ya
+pirate:	aye aye
+
+english: okay, okey dokey, uhhuh, yes, yea, yeah, yep, yup
+pirate:	aye, aye, aye, yea
+
+english: do you agree, do ya agree, do ye agree
+pirate:	do we have an accord
+
+english: stop, quit that, it
+pirate:	belay that
+
+english: cease, halt, stop, quit
+pirate:	avast
+
+english: knock it off, give it up
+pirate:	belay that
+
+english: hold on, wait, pause
+pirate:	Belay that
+
+english: look, watch out, fore
+pirate:	gangway
+
+english: I say
+pirate:	says I
+
+english: I said
+pirate:	said I
+
+english: my friend
+pirate:	me bucko, me hearty
+
+english: we', a)re even
+pirate:	we're square
+
+english: I'll stab ya, I'll stab ye, I'll stab yous, I will cut you, will cut yous, will cut ya, will cut ye
+pirate:	I'll run ye through
+
+english: tap a keg, open a beer
+pirate:	draught a hogshead
+
+english: on tap
+pirate:	on draught
+
+english: leave
+pirate:	weigh anchor
+
+english: leaving
+pirate:	weighing anchor
+
+english: I see a ship
+pirate:	Sail ho
+
+english: I see land
+pirate:	Land ho
+
+english: good one
+pirate:	good'un
+
+english: from where, ich
+pirate:	whence
+
+english: day before
+pirate:	eve
+
+english: groovy
+pirate:	garrr-oovy
+
+english: go to hell, jump in a lake, away
+pirate:	walk the plank
+
+english: fuck yous, fuck youse, fu
+pirate:	walk the plank
+
+english: I'm afraid, I'm scared
+pirate:	I'm yellow-bellied
+
+english: surrender
+pirate:	strike yer colors
+
+english: no mercy
+pirate:	no quarter
+
+english: I am cold, I am chilly, I am chillin', I am chilling, I am freezing, I'm cold, I'm chilly, I'm chillin', I'm chilling, I'm freezing, I be cold, I be chilly, I be chillin', I be chilling, I be freezing
+pirate:	shiver me timbers
+
+english: better, should be
+pirate:	best be
+
+english: we will
+pirate:	we shall
+
+english: that will
+pirate:	that shall
+
+english: it is not, isn't
+pirate:	'tisn't
+
+english: it's not
+pirate:	'tisn't
+
+english: is not, isn't
+pirate:	ain't
+
+english: this is, it is
+pirate:	'tis
+
+english: it was
+pirate:	'twas
+
+english: it would
+pirate:	'twould
+
+english: would not, wouldn't
+pirate:	wouldna
+
+english: should not, shouldn't
+pirate:	shant
+
+english: should
+pirate:	shall
+
+english: it will not
+pirate:	'twon't
+
+english: it will
+pirate:	'twill
+
+english: it won't
+pirate:	'twon't
+
+english: they are, 're
+pirate:	they be
+
+english: we are, 're
+pirate:	we be
+
+english: can't
+pirate:	can nah
+
+english: don't know
+pirate:	dunno
+
+english: do not know
+pirate:	dunno
+
+english: did not, didn't
+pirate:	didn'
+
+english: you are
+pirate:	ye be
+
+english: I'm
+pirate:	I be
+
+english: how is
+pirate:	how's
+
+english: because
+pirate:	'cause
+
+english: fucked
+pirate:	farrgged
+
+english: fucker
+pirate:	farrgger
+
+english: fucking
+pirate:	farrgging
+
+english: dick, cock, penis, boner
+pirate:	pegleg
+
+english: pussy, cunt, vagina
+pirate:	powder pan
+
+english: downloads, torrents, warez
+pirate:	loot
+
+english: click, impale, pierce, poke, prod, stab, thrust
+pirate:	jab, skewer
+
+english: clicks, impales, pierces, pokes, prods, stabs, thrusts
+pirate:	jabs, skewers
+
+english: clicked, impaled, pierced, poked, prodded, stabbed, thrusted
+pirate:	jabbed, skewered
+
+english: clicking, impaling, piercing, poking, prodding, stabbing, thrusting
+pirate:	jabbing, skewering
+
+english: embezzle, filch, misappropriate, plagiarize, poach, rob, snatch, shoplift, steal
+pirate:	plunder, loot, pilfer
+
+english: embezzles, filches, misappropriates, plagiarizes, poaches, robs, snatches, shoplifts, steals
+pirate:	plunders, loots, pilfers
+
+english: embezzled, filched, misappropriated, plagiarized, poached, robbed, snatched, thieved, shoplifted
+pirate:	plundered, looted, pilfered
+
+english: embezzling, filching, misappropriating, plagiarizing, poaching, robbing, snatching, thieving, shoplifting
+pirate:	plundering, looting, pilfering
+
+english: stole
+pirate:	plundered, looted, pilfered
+
+english: seize, requisition, appropriate, expropriate, sequestrate, sequester, confiscate, annex, take over
+pirate:	commandeer
+
+english: seizes, requisitions, appropriates, expropriates, sequestrates, sequesters, confiscates, annexes, takes over
+pirate:	commandeers
+
+english: seized, requisitioned, appropriated, expropriated, sequestrated, sequestered, confiscated, annexed, took over
+pirate:	commandeered
+
+english: seizing, requisitioning, appropriating, expropriating, sequestrating, sequestering, confiscating, annexing, taking over
+pirate:	commandeering
+
+english: accursed, cursed, dammed, damned, doomed, ill-fated, jinxed, blighted
+pirate:	black spotted
+
+english: lean
+pirate:	careen
+
+english: leans
+pirate:	careens
+
+english: leaning
+pirate:	careening
+
+english: leaned
+pirate:	careened
+
+english: bamboozle, bilk, cheat, deceive, defraud, double-cross, dupe, flimflam, hoodwink, swindle
+pirate:	hornswaggle
+
+english: bamboozles, bilks, cheats, deceives, defrauds, double-crosses, dupes, flimflams, hoodwinks, swindles
+pirate:	hornswaggles
+
+english: bamboozled, bilked, cheated, deceived, defrauded, double-crossed, duped, flimflamed, hoodwinked, swindled
+pirate:	hornswaggled
+
+english: abandon, strand, forsake
+pirate:	maroon
+
+english: abandons, strands, forsakes
+pirate:	maroons
+
+english: abandoned, stranded, forsakened
+pirate:	marooned
+
+english: expunge, cancel, kill, nuke, obliterate, remove, delete
+pirate:	scuttle
+
+english: expunged, canceled, killed, nuked, obliterated, removed, deleted
+pirate:	scuttled
+
+english: expunges, cancels, kills, nukes, obliterates, removes, deletes
+pirate:	scuttles
+
+english: recruit
+pirate:	crimp
+
+english: recruits
+pirate:	crimps
+
+english: recruited
+pirate:	crimped
+
+english: recruiting
+pirate:	crimping
+
+english: roll, roll up
+pirate:	furl
+
+english: rolling, rolling up
+pirate:	furling
+
+english: unroll
+pirate:	unfurl
+
+english: unrolls
+pirate:	unfurls
+
+english: unrolled
+pirate:	unfurled
+
+english: unrolling
+pirate:	unfurling
+
+english: record
+pirate:	log
+
+english: records
+pirate:	logs
+
+english: recorded
+pirate:	logged
+
+english: recording
+pirate:	logging
+
+english: )(clean)(s, ed
+pirate:	swab
+
+english: cleaning
+pirate:	swabbing
+
+english: own
+pirate:	owns
+
+english: need
+pirate:	needs
+
+english: want
+pirate:	wants
+
+english: think
+pirate:	reckon
+
+english: talk, conversation
+pirate:	natter
+
+english: talks, conversations
+pirate:	natters
+
+english: talking
+pirate:	natterin'
+
+english: talked
+pirate:	nattered
+
+english: enter
+pirate:	board
+
+english: enters
+pirate:	boards
+
+english: entered
+pirate:	boarded
+
+english: entering
+pirate:	boardin'
+
+english: get hanged
+pirate:	dance the hempen jig
+
+english: got hanged
+pirate:	danced the hempen jig
+
+english: afraid
+pirate:	afeared
+
+english: noisy
+pirate:	raucous
+
+english: old
+pirate:	ole
+
+english: hungry
+pirate:	starvin'
+
+english: little, small, tiny
+pirate:	wee
+
+english: stolen
+pirate:	plundered, looted, pilfered
+
+english: cowardly, faint-hearted, spineless, chicken-hearted, craven, timid, fearful, gutless
+pirate:	lily-livered
+
+english: ass
+pirate:	arse
+
+english: butt
+pirate:	booty
+
+english: bling, goods, inventory, products, contraband, fortune, swag, wealth, treasure
+pirate:	booty, loot
+
+english: payment, salary
+pirate:	bounty
+
+english: dollar bill
+pirate:	doubloon
+
+english: money, dollars, coins, cash
+pirate:	doubloons
+
+english: coins, quarters, dimes, nickels
+pirate:	pieces of eight, shillings
+
+english: coin, dime, nickel
+pirate:	piece of eight, shilling
+
+english: wallet, purse, safety deposit box
+pirate:	coffer
+
+english: nothing, no purpose, no effect, nil, zero, zilch, nada, diddly-squat
+pirate:	naught
+
+english: story, blog, article
+pirate:	tale
+
+english: stories, blogs, articles
+pirate:	tales
+
+english: some text
+pirate:	a tale
+
+english: anger
+pirate:	wrath
+
+english: music, songs
+pirate:	shanties, chanties
+
+english: song
+pirate:	shanty, chanty, chantey, shantey
+
+english: noose
+pirate:	hempen halter
+
+english: flag
+pirate:	Jolly Roger
+
+english: license
+pirate:	letter of marque
+
+english: handcuffs
+pirate:	shackles
+
+english: dog, mutt, bitch, doggy, puppy
+pirate:	cur
+
+english: walkway, footway
+pirate:	gangplank
+
+english: hallway
+pirate:	gangway
+
+english: cage
+pirate:	gibbet
+
+english: a disease, the disease, some disease, that disease, a sickness, the sickness, some sickness, that sickness
+pirate:	scurvy
+
+english: telescope, binoculars
+pirate:	spyglass
+
+english: telescopes
+pirate:	spyglasses
+
+english: steering wheel
+pirate:	helm
+
+english: driver, chauffeur, pilot, motorist
+pirate:	helmsman
+
+english: sword
+pirate:	cutlass
+
+english: swords
+pirate:	cutlasses
+
+english: devil, satan
+pirate:	Davy Jones
+
+english: favorite
+pirate:	fav'rit
+
+english: favorites
+pirate:	fav'rits
+
+english: parrot
+pirate:	parrot, parrot, polly
+
+english: monkey
+pirate:	monkey, monkey, tailed imp
+
+english: monkeys
+pirate:	monkeys, monkeys, tailed imps
+
+english: questions
+pirate:	riddles
+
+english: question
+pirate:	riddle
+
+english: shoes
+pirate:	boots
+
+english: shoe
+pirate:	boot
+
+english: the front end
+pirate:	the fore
+
+english: front end, front-end
+pirate:	fore
+
+english: forward
+pirate:	fore
+
+english: the rear, back, stern
+pirate:	the aft
+
+english: on the left, on the left side
+pirate:	on the port side
+
+english: the left
+pirate:	port
+
+english: turn left
+pirate:	turn to port
+
+english: take a left
+pirate:	turn to port
+
+english: on the right, on the right side
+pirate:	on the starb'rd side
+
+english: the right
+pirate:	starb'rd
+
+english: turn right
+pirate:	turn to starb'rd
+
+english: take a right
+pirate:	turn to starb'rd
+
+english: turn around
+pirate:	come about
+
+english: 12 inch, 13 inch, 14 inch, 15 inch, 16 inch, 17 inch, 12 inchs, 13 inchs, 14 inchs, 15 inchs, 16 inchs, 17 inchs, twelve inch, thirteen inch, fourteen inch, fifteen inch, sixteen inch, seventeen inch, twelve inchs, thirteen inchs, fourteen inchs, fifteen inchs, sixteen inchs, seventeen inchs
+pirate:	nigh-on a cubit
+
+english: 18 inch, 18 inches, eighteen inch, eighteen inches
+pirate:	a cubit
+
+english: 3 foot, 3 feet, three foot, three feet
+pirate:	half a fathom
+
+english: 5 foot, 5 feet, five foot, five feet
+pirate:	nigh-on a fathom
+
+english: 6 foot, 6 feet, six foot, six feet
+pirate:	a fathom
+
+english: 10 foot, 10 feet, ten foot, ten feet
+pirate:	nigh-on two fathoms
+
+english: 11 foot, 11 feet, eleven foot, eleven feet
+pirate:	nigh-on two fathoms
+
+english: 12 foot, 12 feet, twelve foot, twelve feet
+pirate:	two fathoms
+
+english: a mile, 1 mile, one mile
+pirate:	nigh-on half a league
+
+english: 2 miles, two miles
+pirate:	nigh-on a leagues
+
+english: 3 miles, three miles
+pirate:	one leagues
+
+english: 5 miles, five miles
+pirate:	nigh-on two leagues
+
+english: 6 miles, six miles
+pirate:	two leagues
+
+english: 8 miles, eight miles
+pirate:	nigh-on three leagues
+
+english: 9 miles, nine miles
+pirate:	three leagues
+
+english: 11 miles, eleven miles
+pirate:	nigh-on four leagues
+
+english: 12 miles, twelve miles
+pirate:	four leagues
+
+english: home, house, place, boat, houseboat, motorboat
+pirate:	ship, galleon
+
+english: office, living , bed, tv )room, den
+pirate:	cabin
+
+english: <!to )bed, couch
+pirate:	cot, hammock
+
+english: cabinet, closet, trunk, hard drive, storage, basement
+pirate:	hold
+
+english: basement
+pirate:	bilge
+
+english: porch
+pirate:	poop deck
+
+english: kitchen, dining room, restaurant, cafe
+pirate:	galley
+
+english: toilet, potty, bathroom, bath room, restroom
+pirate:	head
+
+english: entryway, lobby
+pirate:	prow
+
+english: grocery store
+pirate:	market
+
+english: store
+pirate:	market
+
+english: underside
+pirate:	keel
+
+english: hell
+pirate:	Davy Jones' locker
+
+english: heaven
+pirate:	Fiddler's Green
+
+english: paradise
+pirate:	Fiddler's Green
+
+english: food, dinner, supper, lunch, breakfast
+pirate:	grub
+
+english: bread, cracker, biscotti, bisquit, biscuit
+pirate:	hardtack, sea biscuit
+
+english: beer, lager, malt beverage
+pirate:	ale
+
+english: wine cooler, champagne, margarita, gin and tonic, gingerbeer
+pirate:	grog
+
+english: vodka, gin, whiskey, scotch, tequila
+pirate:	rum
+
+english: a drink, some drinks
+pirate:	rum
+
+english: alcohol, liquor
+pirate:	spirits, rum
+
+english: member
+pirate:	hand
+
+english: members
+pirate:	hands
+
+english: person
+pirate:	scallywag
+
+english: people
+pirate:	scallywags
+
+english: organization, company, team, class
+pirate:	crew
+
+english: girlfriends, lady friends, women, waitresses, stewardesses, actresses, bimbos, dames, prostitutes, whores, call girls, street walkers, hookers, street girls, floozies
+pirate:	wenches, strumpets
+
+english: girlfriend, lady friend, woman, waitress, stewardess, actress, bimbo, dame, prostitute, whore, call girl, street walker, hooker, street girl, floozy, floozie
+pirate:	wench, strumpet
+
+english: girls, young ladies, young women, damsels
+pirate:	lasses, poppets
+
+english: girl, missy, young lady, young woman, damsel
+pirate:	lass, poppet
+
+english: ladies, wives, hostesses, sweethearts, hotties, babes
+pirate:	beauties, proud beauties
+
+english: lady, wife, hostess, sweetheart, looker, hottie
+pirate:	beauty, proud beauty
+
+english: husband
+pirate:	ol' mate
+
+english: y'all, yous, se) guys, lot)
+pirate:	me scallywags
+
+english: chap, dude, fellow, guy, hombre, man
+pirate:	scallywag
+
+english: dudes, fellows, guys, hombres, men
+pirate:	scallywags
+
+english: loser
+pirate:	scallywag
+
+english: losers
+pirate:	scallywags
+
+english: boyfriend
+pirate:	mate, scallywag
+
+english: boyfriends
+pirate:	mates, scallywags
+
+english: friend
+pirate:	matey, scallywag, heartie
+
+english: friends
+pirate:	mateys, scallywags, hearties
+
+english: boy, fella
+pirate:	lad, whelp
+
+english: boys, fellas
+pirate:	lads, whelps
+
+english: children, kids, babies
+pirate:	sprogs
+
+english: child, kid, baby
+pirate:	sprog
+
+english: relatives
+pirate:	kinfolk
+
+english: relative
+pirate:	kin
+
+english: grandparents, parents
+pirate:	elders
+
+english: grandparent, parent, uncle, aunt, granny, grammy, pop
+pirate:	elder
+
+english: captain, father, dad, daddy, papa
+pirate:	cap'n
+
+english: lawyer, attorney
+pirate:	bottom feeder
+
+english: Dr, Mr. 
+pirate:	Cap'n
+
+english: Mrs, Ms. 
+pirate:	Wench
+
+english: miss
+pirate:	wench
+
+english: accountant, CFO
+pirate:	jack o' coins
+
+english: duke, vice president, vp, secretary
+pirate:	firs' mate
+
+english: president, pres, ceo, teacher, king, lord
+pirate:	cap'n
+
+english: dumb, stupid, tipsy, buzzed
+pirate:	squiffy
+
+english: upplier, storeowner, shopkeeper
+pirate:	sutler
+
+english: prisoner, hostage
+pirate:	captive
+
+english: gentleman
+pirate:	gentleman, gentleman, full-pocketed cur
+
+english: coward, weakling, sissy
+pirate:	yellow-bellied cur
+
+english: cowards, weaklings, sissys, sissies
+pirate:	yellow-bellied curs
+
+english: cowboy, land lover
+pirate:	landlubber
+
+english: cowboys, land lovers
+pirate:	landlubbers
+
+english: coffin
+pirate:	dead man's chest
+
+english: coffins
+pirate:	dead men's chests
+
+english: Bill Turner
+pirate:	Bootstrap Bill
+
+english: James Turner
+pirate:	Cap'n Flint
+
+english: Margaret
+pirate:	Peggy
+
+english: Ruth
+pirate:	Nancy
+
+english: is
+pirate:	be
+
+english: to
+pirate:	t'
+
+english: for
+pirate:	fer
+
+english: of
+pirate:	o'
+
+english: with
+pirate:	wit'
+
+english: and
+pirate:	'n
+
+english: not
+pirate:	nah
+
+english: have
+pirate:	'ave
+
+english: yous, se
+pirate:	ye
+
+english: your
+pirate:	yer
+
+english: yours
+pirate:	yers
+
+english: him
+pirate:	'im
+
+english: himself
+pirate:	hisself
+
+english: their, there
+pirate:	thar
+
+english: theirspirate:	thars
+
+english: their's, there's
+pirate:	thar's
+
+english: what
+pirate:	wha'
+
+english: my
+pirate:	me
+
+english: myself
+pirate:	meself
+
+english: just
+pirate:	jus'
+
+english: over
+pirate:	o'er
+
+english: never
+pirate:	ne'er
+
+english: probably
+pirate:	prolly
+
+english: before
+pirate:	afore
+
+english: near
+pirate:	nigh
+
+english: almost, just about
+pirate:	nigh-on
+
+english: nearly, practically
+pirate:	well-nigh
+
+english: after
+pirate:	aft
+
+english: until
+pirate:	'til
+
+english: awful
+pirate:	ghastly
+
+english: really cool, extremely cool, very cool
+pirate:	smart
+
+english: fashionable, up-scale, stylish, chic, elegant, neat, dapper, snazzy, snappy, posh, ritzy, classy, swanky, glitzy
+pirate:	smart
+
+english: quickly, briskly, rapidly, speedily, on the double, posthaste, like the wind
+pirate:	smartly, handsomely
+
+english: very, extremely, exceedingly, exceptionally, extraordinarily, tremendously, immensely, hugely, intensely, acutely, abundantly, singularly, uncommonly, decidedly, particularly, supremely, highly, remarkably, really, truly, mightily, ever so
+pirate:	mighty
+
+english: hardy), [bm]wah, he[eh], hah, oh, ho, yuk)*har, [bm]wah, he[eh], hah, ho, yuk))+
+pirate:	har har har
+
+english: hardy), [bm]wah, he[eh], hah, oh, ho, yuk)*har, [bm]wah, he[eh], hah, ho, yuk)
+pirate:	har har
+
+english: hardy), [bm]wah, he[eh], hah, ho, yuk
+pirate:	har

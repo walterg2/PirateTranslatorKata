@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+ 
+<!--
+	The <project> tag defines the ant project and 
+	the default build task to run initiated. It 
+	also defines the base directory which is set
+	to the current folder this file lives in.
+-->
+<project name="file-bundler" default="build">
+	<property name="build.dir" value="${basedir}"/>
+	<property name="project.base" value="${basedir}"/>
+	
+	<target name="build" depends="bundle_files" />
+	
+	<basename property="file.name" file="${basedir}"/>
+	
+	<target name="bundle_files">
+		<echo>Base Dir for bundler is: ${basedir}</echo>
+		<echo>Project Base Dir is: ${project.base}</echo>
+		<echo>Build Dir for bundler is: ${build.dir}</echo>
+		<concat destfile="${project.base}/${build.dir}/${file.name}.${file.extension}">
+			<fileset dir="./" casesensitive="yes">
+				<include name="**/*.${file.extension}"/>
+			</fileset>
+		</concat>
+	</target>
+</project>

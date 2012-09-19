@@ -1,0 +1,95 @@
+#progress {
+	background-color:transparent;
+	color:#53682b;
+	font-size:0.875em;
+	font-weight:700;
+	margin:0 0 5px;
+	padding:0;
+	text-transform:uppercase;
+}
+#progress .complete {
+	background: #516834; /* Old browsers */
+	background: -moz-linear-gradient(top,  #7fa154 0%, #53682b 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#7fa154), color-stop(100%,#53682b)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  #7fa154 0%,#53682b 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  #7fa154 0%,#53682b 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  #7fa154 0%,#53682b 100%); /* IE10+ */
+	background: linear-gradient(top,  #7fa154 0%,#53682b 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#7fa154', endColorstr='#53682b',GradientType=0 ); /* IE6-9 */
+}
+#progress .toDo {
+	background-color: #eee;
+}
+#progress dl {
+	display:block;
+	border: 1px solid #ddd;
+	height: 11px;
+	width: 100%;
+}
+#progress dt {
+	width: 0;
+	height: 0;
+	overflow: hidden;
+}
+#progress dd {
+	height: 11px;
+	float: left;
+	position:relative;
+}
+#progress dd span {
+	display: block;
+	width: 100%;
+	height: 100%;
+	text-indent: -9000px;
+}
+#progress dd div {
+	width:0; 
+	height:0;
+	border-top: 11px solid transparent;
+	border-right: 11px solid #eee;
+	border-left: 0;
+	position:absolute;
+	top:0;
+	right:0px;
+}
+#progress.bindStepOne .complete,#progress.bindStepThree .toDo {
+	width:25%;
+}
+#progress.bindStepTwo .complete,#progress.bindStepTwo .toDo {
+	width:50%;
+}
+#progress.bindStepThree .complete,#progress.bindStepOne .toDo {
+	width:75%;
+}
+#progress.stepOne .complete,#progress.stepFive .toDo {
+	width:16%;
+}
+#progress.stepTwo .complete,#progress.stepFour .toDo {
+	width:33%;
+}
+#progress.stepThree .complete,#progress.stepThree .toDo {
+	width:50%;
+}
+#progress.stepFour .complete,#progress.stepTwo .toDo {
+	width:67%;
+}
+#progress.stepFive .complete,#progress.stepOne .toDo {
+	width:84%;
+}
+#progress.stepSix .complete {
+	width:100%;
+}
+#progress.stepSix dd div {
+	border:none;
+}
+
+
+/* Progress Bar Widths
+ * Quote Step 1 -> 16% / 84%
+ * Quote Step 2 -> 33% / 67%
+ * Quote Step 3 -> 50% / 50%
+ * Quote Step 4 -> 67% / 33%
+ * Quote Step 5 -> 84% / 16%
+ * Quote Step 6 -> 100% / 0%
+ * Bind
+ */
